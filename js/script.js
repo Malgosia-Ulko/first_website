@@ -1,4 +1,4 @@
-console.log("Witajcie wszyscy zaglądający tu developerzy! Oto stronka CV na zamówienie!")
+console.log("Witajcie wszyscy zaglądający tu developerzy! Oto stronka CV na zamówienie! :D Ten kod jest już w repozytorium Git.")
 
 let button = document.querySelector(".js-button");
 let body = document.querySelector(".body");
