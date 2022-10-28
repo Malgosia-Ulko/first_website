@@ -1,0 +1,34 @@
+.navigation {
+    background-color: hsl(165, 53%, 87%);
+    max-width: 1000px;
+    margin: 0 auto;
+    box-shadow: hsl(174, 6%, 69%) 5px -5px 5px 0px;
+}
+
+.navigation__list {
+    list-style-type: none;
+    text-align: center;
+    padding: 15px;
+    margin: 15px;
+    font-weight: 600;
+    font-size: 22px;
+}
+
+.navigation__link {
+    color: hsl(175, 100%, 2%);
+    text-decoration: none;
+    margin-bottom: 20px;
+}
+
+.navigation__link:focus {
+    color: rgb(31, 226, 80);
+    outline: 2px currentColor;
+}
+
+.navigation__link:hover {
+    color: hsl(160, 65%, 37%);
+}
+
+.navigation__link:active {
+    color:  hsl(160, 65%, 60%);
+}

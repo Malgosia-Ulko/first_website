@@ -1,0 +1,27 @@
+.header {
+    background-color: hsla(160, 65%, 37%);
+    color: hsl(175, 100%, 2%);
+    width: 100%;
+    text-align: center;
+    padding: 15px 0;
+    margin: 0 auto;
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.header__button {
+    background-color: hsl(160, 65%, 50%);
+    color: hsl(175, 100%, 2%);
+    font-weight: 600;
+    font-size: 22px;
+    margin: 15px;
+    padding: 10px;
+    font-family: 'Poppins', sans-serif;
+    border: solid  hsl(160, 65%, 50%);
+    border-radius: 5px;
+}
+
+.header__button:hover {
+    background-color: hsl(160, 65%, 60%);
+    border: solid hsl(160, 65%, 60%);
+}

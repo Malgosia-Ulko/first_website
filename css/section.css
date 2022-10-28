@@ -1,0 +1,77 @@
+.section {
+    max-width: 1000px;
+    margin: 15px auto;
+    background-color: hsl(165, 53%, 87%);
+    box-shadow: hsl(174, 6%, 69%) 5px -5px 5px 0px;
+}
+
+.section__header {
+    padding-top: 15px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    margin: 5px;
+}
+
+.section__article {
+    padding-top: 5px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 15px;
+    font-weight: 400;
+    margin: 5px;
+    line-height: 1.8;
+    text-align: justify;
+}
+
+.section__boldQuote {
+    font-weight: 600;
+}
+
+.section__portrait {
+    width: 250px;
+    height: 250px;
+    margin-left: 15px;
+    border-radius: 50%;
+    box-shadow: hsl(174, 6%, 69%) 5px -5px 5px 0px;
+}
+
+.section__CvExample {
+    width: 200px;
+    height: 270px;
+    margin: 23px;
+    box-shadow: 5px -10px 71px 3px hsl(174, 6%, 69%);
+}
+
+.section--last {
+    text-align: center;
+}
+
+.section__contactLink {
+    color: hsl(175, 100%, 2%);
+    font-weight: 600;
+    font-size: 22px;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    word-break: break-word;
+}
+
+.section__contactLink:focus {
+    color: hsl(135, 77%, 50%);
+    outline: 2px currentColor;
+}
+
+.section__contactLink:hover {
+    color: hsl(160, 65%, 37%);
+}
+
+.section__contactLink:active {
+    color: hsl(160, 65%, 60%);
+}
+
+.section__postalAddress {
+    font-weight: 600;
+    font-size: 22px;
+    margin: 5px;
+    padding-bottom: 5px;
+}
