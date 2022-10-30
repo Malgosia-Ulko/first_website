@@ -2,7 +2,7 @@
 
 ## Description
 My first website created as homework during my first programming course. 
-It's a fake commercial site offering resume writing and creation service.
+It's a fake commercial site offering resume writing and designing services.
 An author photo comes from the internet stock and is there only for learning purpose.
 Resume examples come from Canva templates and DO NOT contain real people's personal data.
 Contact data in last section is fake.
